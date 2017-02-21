@@ -1,0 +1,1262 @@
+[
+   {
+      "acronym":"あ",
+      "grammar":"あっての",
+      "meaning":"thanks to (various things), (outcome)",
+      "conjunction":"[名]＋あっての",
+      "example":[
+         {
+            "日々の練習あっての勝利だ。":"Victory is not possible without everyday practice."
+         },
+         {
+            "命あっての物種。":"While there is life, there is hope."
+         }
+      ]
+   },
+   {
+      "acronym":"い",
+      "grammar":"いかん(如何)",
+      "meaning":"depending on",
+      "conjunction":"[名-の]＋いかん",
+      "example":[
+         {
+            "試験の結果いかんでは、卒業できないこともある。":"Depending on the exam results its possible also to fail graduation."
+         },
+         {
+            "その問題はあなたの態度如何によって決まることだ。":"That issue would be decided depending on what your attitude will be on it."
+         }
+      ]
+   },
+   {
+      "acronym":"い",
+      "grammar":"いかんによらず / いかんにかかわらず / いかんを問わず",
+      "meaning":"regardless of",
+      "conjunction":"[名-の]＋いかんによらず",
+      "example":[
+         {
+            "理由のいかんによらず、殺人は許されないことだ。":"Regardless of the reason, murder is unforgiveable."
+         },
+         {
+            "納入した学費は理由のいかんに関わらず返却しません。":"The tuition and fees you have paid will not be returned, no matter what the reason."
+         }
+      ]
+   },
+   {
+      "acronym":"う",
+      "grammar":"(よ)うが / (よ)うと",
+      "meaning":"even (if)",
+      "conjunction":"[動-意向形；い形-かろう；な形-だろう]＋が",
+      "example":[
+         {
+            "周囲に反対されようが、自分でやると決めた以上は最後までやり抜くつもりだ。":"Even if those around me disagree, once I've decided I'll do it, I'll give it my all."
+         },
+         {
+            "頑固と言われよう(と／が)バカと言われよう(と／が)、私は自分の信じることをやります。":"Even if people say I'm stubborn or stupid, I'll do what I believe in."
+         }
+      ]
+   },
+   {
+      "acronym":"う",
+      "grammar":"(よ)うがまいが / (よ)うとまいと",
+      "meaning":"whether",
+      "conjunction":"[動-意向形]＋が＋[動-辞書形]＋まいが",
+      "example":[
+         {
+            "雨が降ろうが降るまいが、私は出かけます。":"Regardless of whether it rains or not , I'm going out."
+         },
+         {
+            "昔の恋人が結婚しようとしまいと、今の私に関係ないことです。":"Whether my childhood sweetheart gets married or not, it's got nothing to do with me now."
+         }
+      ]
+   },
+   {
+      "acronym":"う",
+      "grammar":"(よ)うにもない",
+      "meaning":"want to but can't",
+      "conjunction":"[動-意向形]＋にも＋[動-辞書形]＋ない",
+      "example":[
+         {
+            "新しいパソコンを買おうにも、お金がなくて買えない。":"Even though I want to buy a new computer, I don't have the money so I can't."
+         },
+         {
+            "頭が痛くて、起きようにも起きられなかった。":"I have a terrible headache, and I cannot get up even though I want to."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"かぎりだ(限りだ)",
+      "meaning":"extremely",
+      "conjunction":"[い形-い；な形-な；名-の]",
+      "example":[
+         {
+            "山道で日が暮れて、心細いかぎりでした。":"It's extremely helpless when you're on a mountain road after dark."
+         },
+         {
+            "試験にパスできなくて、悔しい限りだ。":"I am extremely mortified to have failed my exam."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"がさいご(が最後)",
+      "meaning":"once(after beginning, stay that way)",
+      "conjunction":"[動－た形]＋が最後",
+      "example":[
+         {
+            "食べ出したが最後、おいしくて止められなかった。":"It was so delicious that once I started eating, I couldn’t stop."
+         },
+         {
+            "見つかったが最後、真珠は取上げられてしまいますぞ。":"Whoever finds us will take the pearl."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"かたがた(旁)",
+      "meaning":"while(at the same time)",
+      "conjunction":"[名]＋かたがた",
+      "example":[
+         {
+            "無事に卒業できたので、恩師に報告かたがた、手紙を書いた。":"She was able to graduate without any problems and so wrote a letter to thank her professor."
+         },
+         {
+            "仕事かたがた京都見物にゆく。":"While on business, go sightseeing in Kyoto."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"かたわら",
+      "meaning":"while; besides",
+      "conjunction":"[動－辞書形；名－の]＋かたわら",
+      "example":[
+         {
+            "私の母は自分が編み物を習うかたわら、人にも教えている。":"In addition to learning how to knit, my mother also teaches it."
+         },
+         {
+            "王妃は王のかたわらに立っていた。":"The queen stood beside the king."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"がてら",
+      "meaning":"while doing something",
+      "conjunction":"[動-ます形；名]＋がてら",
+      "example":[
+         {
+            "散歩がてら本屋に寄った。":"Since I took a walk, I stopped at a bookshop."
+         },
+         {
+            "せっかく上京したのだから見物がてら、買い物でもしよう。":"Since I've come all the way to the capital, I might as well get some shopping done on top of sightseeing."
+         }
+      ]
+   },
+   {
+      "acronym":"か",
+      "grammar":"がはやいか(が早いか)",
+      "meaning":"as soon as",
+      "conjunction":"[動-辞書形 / た形]＋が早いか",
+      "example":[
+         {
+            "社長が会議室に入ったがはやいか、早速会議が始まった。":"As soon as the company president entered the meeting room, the meeting started."
+         },
+         {
+            "弟は晩ごはんを食べ終わるが早いか宿題をし始めた。":"As soon as my younger brother finishes dinner he starts his homework."
+         }
+      ]
+   },
+   {
+      "acronym":"き",
+      "grammar":"きらいがある",
+      "meaning":"tend to",
+      "conjunction":"[動-辞書形；名-の]＋きらいがある",
+      "example":[
+         {
+            "彼女は優しいですが、知らずに人を傷付けることを言うきらいがある。":"She is a nice person; however, she tends to say hurtful things unintentionally."
+         },
+         {
+            "人は自分の聞きたくないことは耳に入れないというきらいがあるのではないか。":"It seems people have a tendency not to listen to things they dont want to hear, right?"
+         }
+      ]
+   },
+   {
+      "acronym":"き",
+      "grammar":"極まる / ～極まりない(きわまる / きわまりない)",
+      "meaning":"be extremely",
+      "conjunction":"[な形－○]＋極まる",
+      "example":[
+         {
+            "その机は、乱雑極まりない状態だ。":"The desk is in a state of total disorder."
+         },
+         {
+            "私は、彼の失礼きわまりない態度に我慢ならなかった。":"I couldn't get used to his unlimited rudeness."
+         }
+      ]
+   },
+   {
+      "acronym":"こ",
+      "grammar":"ごとき / ～ごとく",
+      "meaning":"look like; be like; and the like",
+      "conjunction":"[動－辞書形 / た形]＋(が)＋ごとき; [名－の]＋ごとき; [名]＋ごとき",
+      "example":[
+         {
+            "その少年は飛ぶがことき勢いで、駆け去った。":"That boy ran away as if he was flying."
+         },
+         {
+            "常のごとく。":"As usual."
+         }
+      ]
+   },
+   {
+      "acronym":"こ",
+      "grammar":"こととて",
+      "meaning":"because",
+      "conjunction":"[動・い形・な形・名]の名詞修飾型＋こととて  ＜動詞否定型「ない」sometimes becomes「ぬ」＞",
+      "example":[
+         {
+            "何も知らぬこととて、失敗をいたしました。":"I'm so sorry for my rudeness owing to my ignorance."
+         },
+         {
+            "店が狭いこととて、お客様には窮屈な思いをさせて申し訳ございません。":"We deeply regret making our valued customers feel squeezed due to the narrowness of the shop."
+         }
+      ]
+   },
+   {
+      "acronym":"こ",
+      "grammar":"ことなしに",
+      "meaning":"with out",
+      "conjunction":"[動－辞書形]＋ことなしに",
+      "example":[
+         {
+            "よいお返事をいただくことなしに、帰るわけにはまいりません。":"I cannot return without a good answer."
+         },
+         {
+            "担当教師の許可を得ることなしに、履修科目の変更はできない。":"Without the permission of the teacher in charge, you may not change your registered classes."
+         }
+      ]
+   },
+   {
+      "acronym":"し",
+      "grammar":"しまつだ(始末だ)",
+      "meaning":"end up(becoming)",
+      "conjunction":"[動・い形・な形・名]の名詞修飾型(現在形)＋しまつだ  ＜often used together with 「この」「その」「あの」＞",
+      "example":[
+         {
+            "友達に借金までするしまつだ。":"Unfortunately, it has got to the point where he has to borrow money from friends."
+         },
+         {
+            "この始末は、今まで述べたとおりです。":"Just as I said, it turned out like this!"
+         }
+      ]
+   },
+   {
+      "acronym":"す",
+      "grammar":"(で)すら",
+      "meaning":"even",
+      "conjunction":"[名(-で)]＋すら",
+      "example":[
+         {
+            "この天才の私ですらわからなかった。":"Even a genius such as myself couldn't solve it."
+         },
+         {
+            "こんなケーブル線ですら、６０００円もした。":"Even this cable cost me 6000 yen."
+         }
+      ]
+   },
+   {
+      "acronym":"す",
+      "grammar":"ずくめ(尽くめ)",
+      "meaning":"full of; a lot of",
+      "conjunction":"[名]＋ずくめ",
+      "example":[
+         {
+            "その学校は規則ずくめだ。":"That school is full of rules."
+         },
+         {
+            "彼は全身黒ずくめだった。":"He was wearing all black."
+         }
+      ]
+   },
+   {
+      "acronym":"そ",
+      "grammar":"そばから(傍から)",
+      "meaning":"as soon as(show a condition in which the same thing repeats again and again)",
+      "conjunction":"[動-辞書形 / た形]＋そばから",
+      "example":[
+         {
+            "私は聞いたそばから人の名前を忘れてしまう。":"I forget the person's name as soon as I hear it."
+         },
+         {
+            "子供が掃除するそばから散らかすから、もうあきらめたくなった。":"The child messes up the room repeatedly as soon as I clean so I already became wanting to give up."
+         }
+      ]
+   },
+   {
+      "acronym":"た",
+      "grammar":"ただ～のみならず",
+      "meaning":"not only ~ (but also ~); not only that.",
+      "conjunction":"ただ＋[動・い形・な形・名]の普通形＋のみならず ＜(な形-だ)becomes (である); (名)omits (だ) or becomes (である)＞",
+      "example":[
+         {
+            "富士山はただ高いのみならず、姿も美しいので、日本の象徴として愛されている。":"Mount Fuji is not just a high mountain, it has a beautiful shape so it is loved as a symbol of Japan."
+         },
+         {
+            "彼はただ勇敢であるのみならず、優しい心の持ち主である。":"He is not only brave, but the owner of a kind heart."
+         }
+      ]
+   },
+   {
+      "acronym":"た",
+      "grammar":"たところで",
+      "meaning":"(even) if; though",
+      "conjunction":"[動-た形]＋ところで",
+      "example":[
+         {
+            "友人に相談したところで、同じだろう。":"Nothing will change even if I asked advice from my friend."
+         },
+         {
+            "タクシーで行ったところで、もう間に合わない.":"Even if I take a taxi, I don't make it."
+         }
+      ]
+   },
+   {
+      "acronym":"た",
+      "grammar":"だに",
+      "meaning":"only; just; even",
+      "conjunction":"[動－辞書形]＋だに; [名]＋だに",
+      "example":[
+         {
+            "聞くだに恐ろしい。":"Just hearing about it is dreadful."
+         },
+         {
+            "想像だにしなかった。":"I never even imagined it."
+         }
+      ]
+   },
+   {
+      "acronym":"た",
+      "grammar":"たる",
+      "meaning":"be; as a; is",
+      "conjunction":"[名]＋たる＋[名]",
+      "example":[
+         {
+            "彼らの主たる輸出品は織物であり、特に絹と木綿である。":"Their main exports are textiles, especially silk and cotton."
+         },
+         {
+            "子たる者すべからく親の命にしたが従うべし。":"Children should obey their parents."
+         }
+      ]
+   },
+   {
+      "acronym":"た",
+      "grammar":"たりとも",
+      "meaning":"even (emphasize something being small, few, weak,etc.)",
+      "conjunction":"[名]＋たりとも",
+      "example":[
+         {
+            "ご飯の一粒たりとも無駄にするな！":"Don't you dare waste even one grain of rice!"
+         },
+         {
+            "一分たりとも無駄に出来ないぞ。":"(We) don't have a minute to waste!"
+         }
+      ]
+   },
+   {
+      "acronym":"つ",
+      "grammar":"っぱなし(っ放し)",
+      "meaning":"leave something as it is",
+      "conjunction":"接続： [動-ます形]＋っぱなし",
+      "example":[
+         {
+            "ここに置きっぱなしにしちゃダメでしょ。":"Hey, you can't leave your things here."
+         },
+         {
+            "友達のビデオが借りっぱなしだ。早く返さなくちゃ。":"I borrowed my friends video and didn't return it. I'd better return it soon."
+         }
+      ]
+   },
+   {
+      "acronym":"つ",
+      "grammar":"つつ",
+      "meaning":"and and",
+      "conjunction":"[動―ます形]＋つ＋[動―ます形]＋つ",
+      "example":[
+         {
+            "ラッシュアワーの車内で、乗客は押しつ押されつしている。":"In a rush-hour train, the passengers push and are pushed."
+         },
+         {
+            "遠くに見えつ隠れつする富士山。":"Mt. Fuji appearing and disappearing in the distance."
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"であれ",
+      "meaning":"even",
+      "conjunction":"[名]＋であれ",
+      "example":[
+         {
+            "社長であれ規則はまもらないといけない。":"Even the company president has to obey the rules."
+         },
+         {
+            "投票は海外に住んでいる人であれするべきだ。":"Voting is something that you have to do, even if you live abroad."
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"であれであれ",
+      "meaning":"whether x or y",
+      "conjunction":"[名]＋であれ＋[名]＋であれ",
+      "example":[
+         {
+            "正社員であれパ-トであれ、仕事に対する責任は変わりません。":"Whether a full time employee or a part-timer, your duty to your job is the same."
+         },
+         {
+            "有名であれ、無名であれ、人生は短い。":"No matter if one is famous or nameless, life is short."
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"てからというもの",
+      "meaning":"ever since s.t. changed",
+      "conjunction":"[動-て形]＋からというもの",
+      "example":[
+         {
+            "娘が帰ってきてからというもの、年老いた父親は見違えるほど元気になった。":"Ever since the daughter returned, her aging father has really perked up."
+         },
+         {
+            "水泳を習い始めてからというもの、冬でも風邪を引かなかった。":"Ever since I started learning how to swim, even in winter, I don't catch a cold."
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"でなくてなんだろう / ～でなくてなんであろう",
+      "meaning":"if thats not... I don't know what is",
+      "conjunction":"[名]＋でなくてなんだろう",
+      "example":[
+         {
+            "自分の命を犠牲にして多くの人を救ったあの男が英雄でなくてなんだろう。":"That man who sacrificed his own life to help so many people, if he isn't a hero I don't know who is."
+         },
+         {
+            "このケーキが世界一でなくてなんだろう。":"If this isn't the world's best cake, then I don't know what is."
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"ではあるまいし / じゃあるまし",
+      "meaning":"it's not as if",
+      "conjunction":"[動-辞書形 / た形；名]＋ではあるまいし",
+      "example":[
+         {
+            "冬山登山をするのではあるまいし、大げさな格好は要りません。":"We're not exactly climbing mountains in mid-winter, so there's no need for that sort of over-the-top clothing."
+         },
+         {
+            "こどもではあるまいし、暗い所が怖いなんて、おかしいですね。":"It's not like he's a child so to be afraid of the dark is just bizarre isn't it?"
+         }
+      ]
+   },
+   {
+      "acronym":"て",
+      "grammar":"てやまない(止ま無い・已ま無い)",
+      "meaning":"not to stop",
+      "conjunction":"[動－て形]＋やまない",
+      "example":[
+         {
+            "子供たちは親の愛を求めてやまない。":"Kids don't stop seeking their parent's love."
+         },
+         {
+            "ご健康を心から願ってやみません。":"I (never stop) wish you good health."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"と相まって",
+      "meaning":"in cooperation with; combined with",
+      "conjunction":"[名]＋と相まって",
+      "example":[
+         {
+            "実力と運とが相まって、彼を成功に導いた。":"His ability coupled with luck brought about his success."
+         },
+         {
+            "多くの国々では、水や空気の汚染と相まって、環境破壊が進んでいる。":"In many countries, water and air polution is coupled with progressive environmental destruction."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"とあって",
+      "meaning":"because",
+      "conjunction":"[動・い形・な形・名]の普通形＋とあって <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "人気スタ-がやってくるとあって、大勢の人達が待ち受けていた。":"Because a popular star is coming, a large crowd gathered to meet him at the airport."
+         },
+         {
+            "夏休みが始まったとあって、子供たちはみんな嬉しそうだ。":"Summer vacation has begun, so the children all look happy."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"とあれば",
+      "meaning":"if it happens to be",
+      "conjunction":"[動・い形・な形・名]の普通形＋とあれば <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "遠来の客が来るとあれば、腕をふるってご馳走をたくさん用意しょう。":"If a customer is coming from far away, let's show them what we can do and prepare a real treat."
+         },
+         {
+            "だれも行かないとあれば、わたしが行くしかないだろう。":"If it is so that no one goes, then there is nothing for it but for me to go."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"といいといい",
+      "meaning":"in terms of both ~ and ~",
+      "conjunction":"[名]＋といい＋[名]＋といい",
+      "example":[
+         {
+            "このドレス、色といいデザインといい、お客様によく似合いです。":"From the perspective of the colour as well as the design, this suit is a good match for you."
+         },
+         {
+            "家柄といい学歴といい、彼は非の打ちどころがない。":"He is just perfect, both in terms of his family and educational background."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"といえども",
+      "meaning":"however, but, though",
+      "conjunction":"[動・い形・な形・名]の普通形＋といえども <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "近年、医学がめざましく進歩したといえども、病人の数は減少傾向にはない。":"In recent years, even though you could say medical science has been progressing greatly, the number of sick people has not decreased."
+         },
+         {
+            "いかに多忙といえども、健康管理を怠ってはならない。":"Even though you might be so busy, you must not neglect your health."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"と思いきゃ",
+      "meaning":"thought so, but",
+      "conjunction":"[動・い形・な形・名]の普通形＋と思いきゃ <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "このレストランは安いと思いきや、会計は5千円以上だった！":"I thought this restaurant would be cheap but (surprisingly) the bill was over 5,000 yen!"
+         },
+         {
+            "昼間だから絶対込んでいると思いきや、一人もいなかった。":"Despite having thought that it must be crowded since it was afternoon, (surprisingly) not a single person was there."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"ときたら",
+      "meaning":"when it comes to~",
+      "conjunction":"[名]＋ときたら",
+      "example":[
+         {
+            "私ときたら、料理はまったくだめなのよ。":"I really can't cook at all."
+         },
+         {
+            "うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。":"Speaking of my son, he is always playing games without studying."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"ところを",
+      "meaning":"despite a certain time; despite a certain situation",
+      "conjunction":"[動-辞書形 / た-形；い形-い；な形-な；名-の]＋ところを",
+      "example":[
+         {
+            "お忙しいところをおいで下さいまして、ありがとうございます。":"Thank you so much for coming, despite being so busy."
+         },
+         {
+            "お休みのところをお邪魔致しまして、垂ｵ訳ありません。":"I deeply apologise for intruding on you despite it being your holiday."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"としたところで / としたって / にしたところで / にしたって",
+      "meaning":"even if; though",
+      "conjunction":"[動・い形・な形・名]の普通形＋としたところで <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "全員が参加するとしたところで、せいぜい３０人位だ。":"Even if all the members participated, there'd still only be about 30 persons."
+         },
+         {
+            "彼がどんなに歌が得意としたって、素人の域を出ていないよ。":"However good his singing is, the fact is he hasn't left the realms of an amateur."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"とは",
+      "meaning":"be so; so much",
+      "conjunction":"[動・い形・な形・名]の普通形＋とは <sometimes [な形・名] don’t use [だ]＞",
+      "example":[
+         {
+            "そんな話し方をするとは、彼は狂っていたに違いない。":"He must be crazy to talk like that."
+         },
+         {
+            "一人で外出するとは彼女も不注意だった。":"It was careless of her to go out alone."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"とはいえ",
+      "meaning":"even though it is said; admitting that",
+      "conjunction":"[動・い形・な形・名]の普通形＋とはいえ <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "春になったとはいえ朝晩はまだ寒い。":"They say that Spring has arrived but the mornings and evenings are still cold."
+         },
+         {
+            "幼いとは言え、その子は自分の家庭の苦しい事情を理解している。":"Even though the kid is young, nevertheless he understands the difficult circumstances of his family."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"とばかりに",
+      "meaning":"as if; as if ~ were convinced that",
+      "conjunction":"[動-普通形 / 命令形]＋とばかりに; [い形・な形・名]の普通形＋とばかりに <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "彼女は、信じられないとばかりに、口を開けたまま彼を見つめていた。":"She just stared at him with her mouth wide open as if she didn't believe him."
+         },
+         {
+            "課長は余計な質問はするなとばかりに私ににらみつけた。":"My section chief glared at me as if to tell me not to ask any unnecessary questions."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"ともなく / ～ともなしに",
+      "meaning":"without really planning to",
+      "conjunction":"[動－辞書形]＋ともなく",
+      "example":[
+         {
+            "見るともなくぼんやり外を見ていたら、不意に大きなカラスが飛んできた。":"I was looking around outside absent-mindedly, and suddenly a huge crow came flying at me."
+         },
+         {
+            "待つこともなく彼女が現れた。":"I had not waited long before she turned up."
+         }
+      ]
+   },
+   {
+      "acronym":"と",
+      "grammar":"ともなると / ～ともなれば",
+      "meaning":"when it comes to (special situation)",
+      "conjunction":"[動－辞書形；名]＋ともなると",
+      "example":[
+         {
+            "桜の季節ともなると、この公園は花見客でにぎわう。":"When it comes to the cherry blossom season, the park is packed with cherry blossom viewers."
+         },
+         {
+            "大学へ進学するともなると、学問、バイト、サークルなど、人それぞれのライフスタイルができてくる。":"When you enter college, each of you will develop your own lifestyle, with studies, work and club activities."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"ないまでも",
+      "meaning":"expressing the speaker's feeling that although an ideal action or state isn't possible, at least the next best action or stat is or should be available",
+      "conjunction":"[動－ない形]＋ないまでも",
+      "example":[
+         {
+            "彼が犯人だと断定できないまでも、いろいろと怪しいところがある。":"Even though we can't conclude he's the culprit, he has many suspicious points."
+         },
+         {
+            "この公演は大成功とは言えないまでも、それなりの成果をもたらした。":"Although you may not be able to call this public performance a great success, it produced results of a sort."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"ながらも",
+      "meaning":"but , however , though , although , yet",
+      "conjunction":"[動-ます形 / ない形-ない；い形-い；な形-○；名]＋ながら",
+      "example":[
+         {
+            "その職人は古い伝統を守りながらも、新しい工夫を重ねている。":"Although that craftsman preserves the old traditions, he is also building up new methods."
+         },
+         {
+            "彼女は女ながらも勇敢に戦った。":"Woman as she was, she fought bravely."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"ながらに",
+      "meaning":"since (A) started, it has been continuously in the same state",
+      "conjunction":"[動－ます形；名]＋ながらに",
+      "example":[
+         {
+            "インターネットを活用すれば、居ながらにして世界中の情報を手に入れることがけきる。":"By using the internet, you can get the world's information without leaving your house."
+         },
+         {
+            "すべての人は生まれながらに平等である。":"All men are created equal."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"なくして(は)",
+      "meaning":"if it wasn't for...",
+      "conjunction":"[名]＋なくして",
+      "example":[
+         {
+            "山川教授なくしては今の私は存在しなかったであろう。":"If it weren't for Prof. Yamakawa, I wouldn't be what I am now."
+         },
+         {
+            "忍耐なくしては、誰も成功することはできない。":"Nobody is able to succeed without endurance."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"なしに(は)",
+      "meaning":"without; unless",
+      "conjunction":"[名]＋なしに",
+      "example":[
+         {
+            "だれも努力なしには何事も成し遂げられない。":"No one can achieve anything without effort."
+         },
+         {
+            "この辞書なしには済まされない。":"I can't do without this dictionary."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"ならでは",
+      "meaning":"(none, nothing) but; except",
+      "conjunction":"[名]＋ならでは",
+      "example":[
+         {
+            "こんな新しい発想はあのデザイナーならではのものです。":"Such a new conception is something only that designer could think of."
+         },
+         {
+            "あの人ならではこのような文章を書けなかっただろう。":"No one could have written such a prose as this one except him."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"なり",
+      "meaning":"as soon as",
+      "conjunction":"[動-辞書形]＋なり",
+      "example":[
+         {
+            "彼は帰ってくるなり食事もせずに寝てしまいました。":"As soon as he got home, he went to bed without eating."
+         },
+         {
+            "教室に入るなり、先生は突然怒ったような口調で話しはじめた。":"On entering the classroom, our teacher burst into angry speech."
+         }
+      ]
+   },
+   {
+      "acronym":"な",
+      "grammar":"なりに / なりの",
+      "meaning":"in one's own way, one's own style",
+      "conjunction":"[動・い形・な形・名]の普通形＋とはいえ <[な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "私は私なりに人生観を持っています。":"I have my own outlook on life."
+         },
+         {
+            "その絵はそれなりによくできている。":"The picture is good in its way."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"に(は)あたらない",
+      "meaning":"no need to do so",
+      "conjunction":"[動－辞書形；名]＋に(は)あたらない",
+      "example":[
+         {
+            "それは驚くに当たらない。":"It is not to be wondered at."
+         },
+         {
+            "同情するにあたらない、飲酒運転したんだから、自業自得だ。":"No need to feel sorry for him, he was drunk-driving so its his own fault."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にあって",
+      "meaning":"being in; due to; suited to",
+      "conjunction":"[名]＋にあって",
+      "example":[
+         {
+            "幼児期にあって、彼はストレスの多い状況を経験した。":"As an infant, he underwent a stressful situation."
+         },
+         {
+            "この核時代にあっては、世界中どこの国だって安全ではない。":"No country under the sun is safe in this nuclear age."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"に至る / に至るまで / に至って(は) / に至っても",
+      "meaning":"leads to, all the way to, as far as",
+      "conjunction":"[動-辞書形；名]＋に至る",
+      "example":[
+         {
+            "この道は公園に至る。":"This road goes to the park."
+         },
+         {
+            "公民権運動はある夢に至る。":"The civil rights movement leads to a dream."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にかかわる(に関わる)",
+      "meaning":"be concerned in(with), be involved in(with), affect, concern",
+      "conjunction":"[名]＋にかかわる",
+      "example":[
+         {
+            "ああいう行動は君の名誉にかかわる。":"That kind of behaviour affects your honour."
+         },
+         {
+            "それは生死にかかわる問題だ。":"It is a matter of life and death."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にかたくない(に難くない)",
+      "meaning":"not hard to",
+      "conjunction":"[動－辞書形；名]＋にかたくない",
+      "example":[
+         {
+            "彼の不安は想像にかたくない。":"It's not hard to imagine he is worried."
+         },
+         {
+            "彼の喜びは、察するにかたくない。":"It's not hard to guess how happy he is."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にして",
+      "meaning":"only; because of that",
+      "conjunction":"[名]＋にして",
+      "example":[
+         {
+            "留学生にして日本に行った。":"Only as a student did I go to Japan."
+         },
+         {
+            "これは長年訓練を積んだ彼のような人にして初めてできる技だ。":"This is a skill that only a person with long-term training such as he can pull off."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にそくして / にそくした(に即して)",
+      "meaning":"in line with, in keeping with",
+      "conjunction":"[名]＋にそくして",
+      "example":[
+         {
+            "違反者、法律に則して処分されます。":"The criminal was punished in accordance with the law."
+         },
+         {
+            "彼の伝記は全くの事実に即して書かれたものだ。":"His biography is quite true to life."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にたる(に足る)",
+      "meaning":"be deserving(worthy) of",
+      "conjunction":"[動－辞書形；名]＋に足る",
+      "example":[
+         {
+            "信頼するに足る人物だと思っていた、その人にだまされてしまった。":"I thought he was a perfectly trustworthy person, but I was cheated by him."
+         },
+         {
+            "いやしくもなすに足る事なら立派にやるだけの価値がある。":"If it is worth doing at all it is worth doing well."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にたえない",
+      "meaning":"can't stand; feel strongly about",
+      "conjunction":"[動-辞書形]＋にたえない; [名]＋にたえない",
+      "example":[
+         {
+            "最近のテレビには、見るにたえないほどひどい番組がある。":"TV of late, the programs are so terrible, I can't stand to watch them."
+         },
+         {
+            "ああいう陰口は聞くにたえません。":"I can't stand to hear that kind of bitching behind people's backs."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にたえる",
+      "meaning":"has value; it is worth doing",
+      "conjunction":"[動-辞書形；名]＋にたえる",
+      "example":[
+         {
+            "趣味で始めた焼き物だが、ようやく市販するにたえる作品ができるようになった。":"I just started cooking things as a hobby, but pretty soon I was making stuff that was good enough for sale."
+         },
+         {
+            "あの子は大人の鑑賞にたえる絵を描く。":"That kid draws pictures that are worthy of adult appreciation."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にひきかえ",
+      "meaning":"in sharp contrast with; compared to",
+      "conjunction":"[動・い形・な形]の名詞修飾型＋の＋にひきかえ　；　[名]＋にひきかえ  ＜[名・な形] sometimes use [～である＋の]＞",
+      "example":[
+         {
+            "先月は食料品の売上げが著しく伸びたのにひきかえ、衣料品の売上げが落ち込んだ。":"Last month sales of foodstuffs expanded considerably, but in contrast, clothing sales dropped off."
+         },
+         {
+            "私の古い車にひきかえかれのはとても早いです。":"In contrast to my old car, his is really fast."
+         }
+      ]
+   },
+   {
+      "acronym":"に",
+      "grammar":"にもまして",
+      "meaning":"above everything; more than before",
+      "conjunction":"[動・い形・な形]の名詞修飾型＋の＋にもまして　；　[名]＋にもまして  ＜[名・な形] sometimes use 「～である＋の」＞",
+      "example":[
+         {
+            "試合に勝ったのにもまして、全力を出しきれたことを誇りに思う。":"More than winning the match, i think we can be proud that we really gave it our all."
+         },
+         {
+            "トムはいまや以前にもまして勤勉に働いている。":"Tom works more diligently now."
+         }
+      ]
+   },
+   {
+      "acronym":"の",
+      "grammar":"のいたり(の至り)",
+      "meaning":"completely; utmost",
+      "conjunction":"[名]＋の至り",
+      "example":[
+         {
+            "赤面の至りだ。":"I was completely embarassed."
+         },
+         {
+            "憧れの女優に握手してもらって、もう感激の至りだ。":"I shook the hand of my favourite actress. I was completely overwhelmed."
+         }
+      ]
+   },
+   {
+      "acronym":"の",
+      "grammar":"の極み",
+      "meaning":"be the utmost",
+      "conjunction":"[名]＋の極み",
+      "example":[
+         {
+            "遺憾の極みである。":"Be most regrettable."
+         },
+         {
+            "混乱の極みにある理由を説明する。":"Explain why is feeling so churned up."
+         }
+      ]
+   },
+   {
+      "acronym":"は",
+      "grammar":"はおろか(は愚か・は疎か)",
+      "meaning":"let alone; not to mention",
+      "conjunction":"[名]＋はおろか",
+      "example":[
+         {
+            "その赤ちゃんは走る事はおろか、歩くことさえできない。":"The baby cannot even walk, much less run."
+         },
+         {
+            "僕はイタリア語を書くのはおろか読めもしない。":"I can't even read Italian, let alone write it."
+         }
+      ]
+   },
+   {
+      "acronym":"は",
+      "grammar":"(あれ)ばこそ",
+      "meaning":"particularly thanks to",
+      "conjunction":"[動―ば・い形―ければ・な形－であれば・名－であれば]＋こそ",
+      "example":[
+         {
+            "優勝できたのは、チーム全員も協力あればこそだ。":"The victory was especially due to the team members' cooperation."
+         },
+         {
+            "頭がよければこその悩みですね。":"Especially becuase she is smart, she worries about such things."
+         }
+      ]
+   },
+   {
+      "acronym":"ひ",
+      "grammar":"ひとりだけでなく / ひとりのみならず",
+      "meaning":"not only",
+      "conjunction":"ひとり＋[動・い形・な形]の名詞修飾型＋だけでなく　；　ひとり＋[名]＋だけでなく  ＜sometimes [名・な形] use 「～である」；for「～のみならす」[な形] uses 「～である」＞",
+      "example":[
+         {
+            "最近のロンドン爆破テロは、ひとりイギリスだけではなく世界の問題です。":"The recent terrorism in London is not simply England's problem, it involves the whole world."
+         },
+         {
+            "失業はひとり本人の問題だけでなく、家族にも心配をかける。":"Unemployment is not just a problem for the person herself, it's a cause for worry for the whole family."
+         }
+      ]
+   },
+   {
+      "acronym":"へ",
+      "grammar":"べからざる",
+      "meaning":"should not",
+      "conjunction":"[動－辞書形]＋べからざる　＜「する」 becomes 「～すべからざる」＞",
+      "example":[
+         {
+            "成人指定映画は青少年の見るべからざるものです。":"Movies for adults must not be watched by young people."
+         },
+         {
+            "許すべからざる行為。":"An act that cannot be forgiven."
+         }
+      ]
+   },
+   {
+      "acronym":"へ",
+      "grammar":"べからず",
+      "meaning":"must not (used on notices, signs, etc to show that something is forbidden)",
+      "conjunction":"[動－辞書形]＋べからず　＜「する」becomes 「～すべからず」＞",
+      "example":[
+         {
+            "芝生に立ち入るべからず。":"Keep off the grass!"
+         },
+         {
+            "ここにゴミを捨てるべからず。":"It is forbidden to throw trash here."
+         }
+      ]
+   },
+   {
+      "acronym":"へ",
+      "grammar":"べく",
+      "meaning":"with the intention of doing",
+      "conjunction":"[動－辞書形]＋べく　＜「する」becomes 「～すべく」＞",
+      "example":[
+         {
+            "恩師に会うべく、久しぶりに母校を訪れた。":"For the first time in ages, I went back to my old school in order to see my old teacher."
+         },
+         {
+            "エンジニアになる べく一生懸命勉強した。":"I studied hard in order to become an engineer."
+         }
+      ]
+   },
+   {
+      "acronym":"ま",
+      "grammar":"まじき",
+      "meaning":"not likely",
+      "conjunction":"[動－辞書形]＋まじき　＜「する」becomes 「～すまじき」＞",
+      "example":[
+         {
+            "許すまじきことであれ。":"It's something that cannot be forgiven."
+         },
+         {
+            "許すまじき暴言を吐いた。":"She used offensive language that cannot be forgiven."
+         }
+      ]
+   },
+   {
+      "acronym":"ま",
+      "grammar":"までもない / までもなく",
+      "meaning":"no need to",
+      "conjunction":"[辞書形]＋までもない",
+      "example":[
+         {
+            "電話ですむことですから、わざわざ行くまでもありません。":"This matter can be dealt with by telephone, so there's no need to go all the way there."
+         },
+         {
+            "スレ立てるまでもない話題はこちらへ。":"Topics that don't need their own threads should go here."
+         }
+      ]
+   },
+   {
+      "acronym":"ま",
+      "grammar":"まみれ(塗れ)",
+      "meaning":"be covered in; be stained with",
+      "conjunction":"[名]＋まみれ",
+      "example":[
+         {
+            "彼は全身泥まみれだった。":"He was covered with mud from head to foot."
+         },
+         {
+            "その子供たちは全身ほこりまみれだった。":"The children were covered with dirt from head to foot."
+         }
+      ]
+   },
+   {
+      "acronym":"め",
+      "grammar":"めく",
+      "meaning":"look(like); seem(to be); have an air (of)",
+      "conjunction":"[名]＋めく",
+      "example":[
+         {
+            "社長の皮肉めいた言い方を、社員は不快に感じている。":"Because of the President's sarcastic like way of speech, the employees felt uncomfortable."
+         },
+         {
+            "俺たちは十年来の友人じゃないか、そんな他人めいた言い方をするなよ。":"Hey, we've been friends for many years right? Don't use such a stranger-like style of speaking with me!"
+         }
+      ]
+   },
+   {
+      "acronym":"も",
+      "grammar":"もさることながら(も然る事乍ら)",
+      "meaning":"not only",
+      "conjunction":"[名]＋もさることながら",
+      "example":[
+         {
+            "両親の意向もさることながら、子供自身が有名校にあこがれている。":"Not only intention of the parents, the child himself has yearned to the famous school."
+         },
+         {
+            "この図書館は蔵書の多さもさることながらサービスが実にすばらしい。":"This library's large collection of books is one thing, but the services they provide are really wonderful."
+         }
+      ]
+   },
+   {
+      "acronym":"も",
+      "grammar":"ものを",
+      "meaning":"should have; ought to have; I tell you; why don't [didn't] you",
+      "conjunction":"[動・い形・な形]の名詞修飾型＋ものを",
+      "example":[
+         {
+            "知ってるのであれば、教えてくれてもいいものを。":"If you knew, why didn't you tell me!?"
+         },
+         {
+            "本当のことを言えばいいものを、彼は嘘をついて信用を失ってしまった。":"He should have told the truth, but he lied and lost their trust."
+         }
+      ]
+   },
+   {
+      "acronym":"や",
+      "grammar":"や / や否や",
+      "meaning":"as soon as",
+      "conjunction":"[動-辞書形]＋や",
+      "example":[
+         {
+            "ドアを開けるやいなやその猫は飛び出していった。":"As soon as he opened the door, the cat ran out."
+         },
+         {
+            "撮影されるやいなやデジタル化され、インターネットに載せられました。":"Filming had hardly ended before it had been digitized and put on the internet."
+         }
+      ]
+   },
+   {
+      "acronym":"ゆ",
+      "grammar":"ゆえ(に) / ゆえの(故に・故の)",
+      "meaning":"due to, therefore",
+      "conjunction":"[動・い形・な形・名]の名詞修飾型＋ゆえ <often [な形・名] don't use [だ]＞",
+      "example":[
+         {
+            "動かぬ証拠があるゆえに、有罪が確定した。":"Because of the rock-solid evidence, his guilt was proven."
+         },
+         {
+            "彼女はその美貌の故に、悩みも多い。":"Because of her good looks, she also has many things to worry about."
+         }
+      ]
+   },
+   {
+      "acronym":"を",
+      "grammar":"をおいて(を措いて)",
+      "meaning":"part from, leaving aside",
+      "conjunction":"[名]＋をおいて",
+      "example":[
+         {
+            "あなたをおいて、この会社の社長の適任者はいない。":"Apart from you, there is noone suitable for this company's President."
+         },
+         {
+            "日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなたをおいて誰のところに行きましょう。」":"From the Japanese Mass: 'Lord, you are Christ, the Son of God, Bread of eternal life. Without you, to whom should we go?'"
+         }
+      ]
+   },
+   {
+      "acronym":"を",
+      "grammar":"をかぎりに(を限りに)",
+      "meaning":"with ～, some continuing activity will end (or a prohibition on an activity will start)",
+      "conjunction":"[名]＋を限りに",
+      "example":[
+         {
+            "今日を限りに、この学校ともお別れです。":"After today I'll say goodbye to this school, too."
+         },
+         {
+            "その映画の上映は１５日を限りに打ち切られることとなった。":"That film was pulled just 15 days after it was first shown."
+         }
+      ]
+   },
+   {
+      "acronym":"を",
+      "grammar":"をもって(を以て)",
+      "meaning":"by means of; at",
+      "conjunction":"[名]＋もって",
+      "example":[
+         {
+            "彼は人一倍の努力をもって優勝カップを手にすることができた。":"With his amazing efforts, we were able to get the champion's cup."
+         },
+         {
+            "こんな難問は、優秀な彼の頭脳をもってしても解決できないだろう。":"Even with his brilliant mind, such a difficult problem cannot be resolved."
+         }
+      ]
+   },
+   {
+      "acronym":"を",
+      "grammar":"をものともせずに",
+      "meaning":"in the face of, in defiance of, in spite of",
+      "conjunction":"[名]＋をものともせずに",
+      "example":[
+         {
+            "雪の深い道をものともせずそいつはひたすら車を駆った。":"Without heed to the road deeply covered with snow, he doggedly drove on."
+         },
+         {
+            "周囲の反対をものともせずに、二人は結婚した。":"In defiance of everyone around them, the two of them got married."
+         }
+      ]
+   },
+   {
+      "acronym":"を",
+      "grammar":"をよそに(を余所に)",
+      "meaning":"without consideration for...; despite...; without thinking...",
+      "conjunction":"[名]＋をよそに",
+      "example":[
+         {
+            "彼は大学入試をよそに、毎日パソコンに興じてる。":"Despite having university entrance exams soon, he's wasting his time on the computer every day."
+         },
+         {
+            "親の心配をよそに遊んでばかりいる。":"Without considering that his parents might be worried, he always slacks off."
+         }
+      ]
+   },
+   {
+      "acronym":"ん",
+      "grammar":"んがため(に) / んがための",
+      "meaning":"in order to",
+      "conjunction":"[動－ない形]＋んがため  ＜「する」becomes 「～せんがため」＞",
+      "example":[
+         {
+            "あの頃わたしは大学に進学せんがために毎日必死でがんばった。":"At that time, in order to go on to university I frantically did my best everyday."
+         },
+         {
+            "研究を完成させんがため、彼は昼夜寝ずにがんばった。":"In order to finish the project, he worked day and night without sleeping."
+         }
+      ]
+   }
+]

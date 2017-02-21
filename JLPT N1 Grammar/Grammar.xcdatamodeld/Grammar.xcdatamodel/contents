@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Grammar" representedClassName="GrammarMO" syncable="YES" codeGenerationType="class">
+        <attribute name="acronym" attributeType="String" syncable="YES"/>
+        <attribute name="conjunction" attributeType="String" syncable="YES"/>
+        <attribute name="example1" attributeType="String" syncable="YES"/>
+        <attribute name="example1En" attributeType="String" syncable="YES"/>
+        <attribute name="example2" attributeType="String" syncable="YES"/>
+        <attribute name="example2En" attributeType="String" syncable="YES"/>
+        <attribute name="grammar" attributeType="String" syncable="YES"/>
+        <attribute name="meaning" attributeType="String" syncable="YES"/>
+        <attribute name="saved" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Grammar" positionX="-63" positionY="-18" width="128" height="180"/>
+    </elements>
+</model>

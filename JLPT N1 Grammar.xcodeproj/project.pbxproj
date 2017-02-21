@@ -1,0 +1,469 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AD6174C41E59ABBE0068DDB2 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174C31E59ABBE0068DDB2 /* SwiftyJSON.swift */; };
+		AD6174C61E59ABC70068DDB2 /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = AD6174C51E59ABC70068DDB2 /* Data.json */; };
+		AD6174C81E59ABD10068DDB2 /* ExampleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174C71E59ABD10068DDB2 /* ExampleCell.swift */; };
+		AD6174CC1E59ABE10068DDB2 /* BookmarkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174C91E59ABE10068DDB2 /* BookmarkController.swift */; };
+		AD6174CD1E59ABE10068DDB2 /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174CA1E59ABE10068DDB2 /* DetailController.swift */; };
+		AD6174CE1E59ABE10068DDB2 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174CB1E59ABE10068DDB2 /* HomeController.swift */; };
+		AD6174D21E59ABF10068DDB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6174CF1E59ABF10068DDB2 /* AppDelegate.swift */; };
+		AD6174D41E59ABF10068DDB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD6174D11E59ABF10068DDB2 /* Assets.xcassets */; };
+		AD6174D71E59AC040068DDB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6174D51E59AC040068DDB2 /* LaunchScreen.storyboard */; };
+		AD6174DB1E59AC660068DDB2 /* Grammar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD6174DA1E59AC660068DDB2 /* Grammar.xcdatamodeld */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AD2A244F1E5C52A30098A58F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD9CF6C61BD3A6B900EB32E3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD9CF6CD1BD3A6B900EB32E3;
+			remoteInfo = "JLPT JLPT N1 Grammar";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AD2A244A1E5C52A30098A58F /* JLPTN1GrammarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JLPTN1GrammarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD6174C31E59ABBE0068DDB2 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "JLPT N1 Grammar/SwiftyJSON.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174C51E59ABC70068DDB2 /* Data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Data.json; path = "JLPT N1 Grammar/Data.json"; sourceTree = SOURCE_ROOT; };
+		AD6174C71E59ABD10068DDB2 /* ExampleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExampleCell.swift; path = "JLPT N1 Grammar/ExampleCell.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174C91E59ABE10068DDB2 /* BookmarkController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BookmarkController.swift; path = "JLPT N1 Grammar/BookmarkController.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174CA1E59ABE10068DDB2 /* DetailController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailController.swift; path = "JLPT N1 Grammar/DetailController.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174CB1E59ABE10068DDB2 /* HomeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeController.swift; path = "JLPT N1 Grammar/HomeController.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174CF1E59ABF10068DDB2 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "JLPT N1 Grammar/AppDelegate.swift"; sourceTree = SOURCE_ROOT; };
+		AD6174D01E59ABF10068DDB2 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "JLPT N1 Grammar/Info.plist"; sourceTree = SOURCE_ROOT; };
+		AD6174D11E59ABF10068DDB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "JLPT N1 Grammar/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
+		AD6174D61E59AC040068DDB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "JLPT N1 Grammar/Base.lproj/LaunchScreen.storyboard"; sourceTree = SOURCE_ROOT; };
+		AD9CF6CE1BD3A6B900EB32E3 /* JLPT N1 Grammar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JLPT N1 Grammar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD2A24471E5C52A30098A58F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9CF6CB1BD3A6B900EB32E3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AD9CF6C51BD3A6B900EB32E3 = {
+			isa = PBXGroup;
+			children = (
+				AD9CF6D01BD3A6B900EB32E3 /* JLPT N1 Grammar */,
+				AD6174CF1E59ABF10068DDB2 /* AppDelegate.swift */,
+				AD6174D51E59AC040068DDB2 /* LaunchScreen.storyboard */,
+				AD6174D01E59ABF10068DDB2 /* Info.plist */,
+				AD6174D11E59ABF10068DDB2 /* Assets.xcassets */,
+				AD9CF6CF1BD3A6B900EB32E3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD9CF6CF1BD3A6B900EB32E3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD9CF6CE1BD3A6B900EB32E3 /* JLPT N1 Grammar.app */,
+				AD2A244A1E5C52A30098A58F /* JLPTN1GrammarTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD9CF6D01BD3A6B900EB32E3 /* JLPT N1 Grammar */ = {
+			isa = PBXGroup;
+			children = (
+				ADAFC8971E59A3A500A35152 /* Utility */,
+				ADAFC8961E59A3A300A35152 /* Model */,
+				ADAFC8951E59A3A200A35152 /* View */,
+				ADAFC8941E59A39F00A35152 /* Controller */,
+			);
+			name = "JLPT N1 Grammar";
+			path = "JLPT Grammar";
+			sourceTree = "<group>";
+		};
+		ADAFC8941E59A39F00A35152 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				AD6174C91E59ABE10068DDB2 /* BookmarkController.swift */,
+				AD6174CA1E59ABE10068DDB2 /* DetailController.swift */,
+				AD6174CB1E59ABE10068DDB2 /* HomeController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		ADAFC8951E59A3A200A35152 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				AD6174C71E59ABD10068DDB2 /* ExampleCell.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		ADAFC8961E59A3A300A35152 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AD6174DA1E59AC660068DDB2 /* Grammar.xcdatamodeld */,
+				AD6174C51E59ABC70068DDB2 /* Data.json */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		ADAFC8971E59A3A500A35152 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				AD6174C31E59ABBE0068DDB2 /* SwiftyJSON.swift */,
+			);
+			name = Utility;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD2A24491E5C52A30098A58F /* JLPTN1GrammarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD2A24531E5C52A30098A58F /* Build configuration list for PBXNativeTarget "JLPTN1GrammarTests" */;
+			buildPhases = (
+				AD2A24461E5C52A30098A58F /* Sources */,
+				AD2A24471E5C52A30098A58F /* Frameworks */,
+				AD2A24481E5C52A30098A58F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD2A24501E5C52A30098A58F /* PBXTargetDependency */,
+			);
+			name = JLPTN1GrammarTests;
+			productName = JLPTN1GrammarTests;
+			productReference = AD2A244A1E5C52A30098A58F /* JLPTN1GrammarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AD9CF6CD1BD3A6B900EB32E3 /* JLPT JLPT N1 Grammar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD9CF6E31BD3A6B900EB32E3 /* Build configuration list for PBXNativeTarget "JLPT JLPT N1 Grammar" */;
+			buildPhases = (
+				AD9CF6CA1BD3A6B900EB32E3 /* Sources */,
+				AD9CF6CB1BD3A6B900EB32E3 /* Frameworks */,
+				AD9CF6CC1BD3A6B900EB32E3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "JLPT JLPT N1 Grammar";
+			productName = "JLPT Grammar";
+			productReference = AD9CF6CE1BD3A6B900EB32E3 /* JLPT N1 Grammar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD9CF6C61BD3A6B900EB32E3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Yancen Li";
+				TargetAttributes = {
+					AD2A24491E5C52A30098A58F = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 6R5VNYE87T;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AD9CF6CD1BD3A6B900EB32E3;
+					};
+					AD9CF6CD1BD3A6B900EB32E3 = {
+						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 6R5VNYE87T;
+						LastSwiftMigration = 0820;
+					};
+				};
+			};
+			buildConfigurationList = AD9CF6C91BD3A6B900EB32E3 /* Build configuration list for PBXProject "JLPT N1 Grammar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD9CF6C51BD3A6B900EB32E3;
+			productRefGroup = AD9CF6CF1BD3A6B900EB32E3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD9CF6CD1BD3A6B900EB32E3 /* JLPT JLPT N1 Grammar */,
+				AD2A24491E5C52A30098A58F /* JLPTN1GrammarTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD2A24481E5C52A30098A58F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9CF6CC1BD3A6B900EB32E3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD6174D71E59AC040068DDB2 /* LaunchScreen.storyboard in Resources */,
+				AD6174C61E59ABC70068DDB2 /* Data.json in Resources */,
+				AD6174D41E59ABF10068DDB2 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD2A24461E5C52A30098A58F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD9CF6CA1BD3A6B900EB32E3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD6174DB1E59AC660068DDB2 /* Grammar.xcdatamodeld in Sources */,
+				AD6174CC1E59ABE10068DDB2 /* BookmarkController.swift in Sources */,
+				AD6174CE1E59ABE10068DDB2 /* HomeController.swift in Sources */,
+				AD6174C81E59ABD10068DDB2 /* ExampleCell.swift in Sources */,
+				AD6174D21E59ABF10068DDB2 /* AppDelegate.swift in Sources */,
+				AD6174CD1E59ABE10068DDB2 /* DetailController.swift in Sources */,
+				AD6174C41E59ABBE0068DDB2 /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AD2A24501E5C52A30098A58F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD9CF6CD1BD3A6B900EB32E3 /* JLPT JLPT N1 Grammar */;
+			targetProxy = AD2A244F1E5C52A30098A58F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AD6174D51E59AC040068DDB2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD6174D61E59AC040068DDB2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			path = "JLPT Grammar";
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AD2A24511E5C52A30098A58F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				DEVELOPMENT_TEAM = 6R5VNYE87T;
+				INFOPLIST_FILE = JLPTN1GrammarTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.yancen.JLPTN1GrammarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JLPT N1 Grammar.app/JLPT N1 Grammar";
+			};
+			name = Debug;
+		};
+		AD2A24521E5C52A30098A58F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				DEVELOPMENT_TEAM = 6R5VNYE87T;
+				INFOPLIST_FILE = JLPTN1GrammarTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.yancen.JLPTN1GrammarTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JLPT N1 Grammar.app/JLPT N1 Grammar";
+			};
+			name = Release;
+		};
+		AD9CF6E11BD3A6B900EB32E3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AD9CF6E21BD3A6B900EB32E3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD9CF6E41BD3A6B900EB32E3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/JLPT N1 Grammar/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.yancen.JLPT-N1-Grammar";
+				PRODUCT_NAME = "JLPT N1 Grammar";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		AD9CF6E51BD3A6B900EB32E3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "$(SRCROOT)/JLPT N1 Grammar/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.yancen.JLPT-N1-Grammar";
+				PRODUCT_NAME = "JLPT N1 Grammar";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD2A24531E5C52A30098A58F /* Build configuration list for PBXNativeTarget "JLPTN1GrammarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD2A24511E5C52A30098A58F /* Debug */,
+				AD2A24521E5C52A30098A58F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AD9CF6C91BD3A6B900EB32E3 /* Build configuration list for PBXProject "JLPT N1 Grammar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD9CF6E11BD3A6B900EB32E3 /* Debug */,
+				AD9CF6E21BD3A6B900EB32E3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD9CF6E31BD3A6B900EB32E3 /* Build configuration list for PBXNativeTarget "JLPT JLPT N1 Grammar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD9CF6E41BD3A6B900EB32E3 /* Debug */,
+				AD9CF6E51BD3A6B900EB32E3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		AD6174DA1E59AC660068DDB2 /* Grammar.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+			);
+			name = Grammar.xcdatamodeld;
+			path = "../JLPT N1 Grammar/Grammar.xcdatamodeld";
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = AD9CF6C61BD3A6B900EB32E3 /* Project object */;
+}
