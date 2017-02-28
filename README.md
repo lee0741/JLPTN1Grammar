@@ -4,6 +4,7 @@ A simple iOS app for learning JLPT (Japanese-Language Proficiency Test) N1 level
 ## Features
 - Add grammars to bookmarks.
 - Support 3D Touch.
+- Support Spotlight Search.
 
 ## Getting Started
 1. `git clone https://github.com/lee0741/JLPTN1Grammar.git`
@@ -17,6 +18,7 @@ Please feel free to help out with this project. If you see something that could 
 ![](http://i.imgur.com/66s3TOt.png)
 ![](http://i.imgur.com/DXo2Sw9.png)
 ![](http://i.imgur.com/sgOhqL8.png)
+![](http://i.imgur.com/5gnHwl9.png)
 
 ## Download from App Store
 [![](http://i.imgur.com/PS4LxrB.png)](https://itunes.apple.com/app/jlpt-n1-grammar/id1055619521)
