@@ -432,6 +432,7 @@
 				AD2A24521E5C52A30098A58F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AD9CF6C91BD3A6B900EB32E3 /* Build configuration list for PBXProject "JLPT N1 Grammar" */ = {
 			isa = XCConfigurationList;
