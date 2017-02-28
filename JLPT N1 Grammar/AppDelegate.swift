@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  JLPT Grammar
 //
-//  Created by Steven Lee on 10/18/15.
+//  Created by Yancen Li on 10/18/15.
 //  Copyright © 2015 Yancen Li. All rights reserved.
 //
 
