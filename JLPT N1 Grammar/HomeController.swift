@@ -8,6 +8,8 @@
 
 import UIKit
 import CoreData
+import CoreSpotlight
+import MobileCoreServices
 
 class HomeController: UITableViewController, UISearchResultsUpdating {
   
@@ -21,7 +23,7 @@ class HomeController: UITableViewController, UISearchResultsUpdating {
   override func viewDidLoad() {
     super.viewDidLoad()
     configController()
-    
+    setupSearchableContent()
   }
   
   func configController() {
@@ -70,6 +72,41 @@ class HomeController: UITableViewController, UISearchResultsUpdating {
   
   func bookmarkAction() {
     present(UINavigationController(rootViewController: BookmarkController()), animated: true, completion: nil)
+  }
+  
+  // MARK: - Spotlight Search
+  
+  func setupSearchableContent() {
+    var searchableItems = [CSSearchableItem]()
+    
+    for i in 0...(grammars.count - 1) {
+      let grammar = grammars[i]
+      let searchableItemAttributeSet = CSSearchableItemAttributeSet(itemContentType: kUTTypeText as String)
+      
+      searchableItemAttributeSet.title = grammar.grammar
+      searchableItemAttributeSet.contentDescription = grammar.meaning
+      searchableItemAttributeSet.keywords = [grammar.grammar!, grammar.meaning!]
+      
+      let searchableItem = CSSearchableItem(uniqueIdentifier: "org.yancen.grammar.\(i)", domainIdentifier: "grammar", attributeSet: searchableItemAttributeSet)
+      searchableItems.append(searchableItem)
+    }
+    
+    CSSearchableIndex.default().indexSearchableItems(searchableItems) { (error) -> Void in
+      if error != nil {
+        print(error?.localizedDescription ?? "Failed to index")
+      }
+    }
+  }
+  
+  override func restoreUserActivityState(_ activity: NSUserActivity) {
+    if activity.activityType == CSSearchableItemActionType {
+      if let userInfo = activity.userInfo {
+        let selectedGrammar = userInfo[CSSearchableItemActivityIdentifier] as! String
+        let detailController = DetailController()
+        detailController.grammar = grammars[Int(selectedGrammar.components(separatedBy: ".").last!)!]
+        navigationController?.pushViewController(detailController, animated: true)
+      }
+    }
   }
   
   // MARK: - Table View Data Source
