@@ -153,6 +153,7 @@ extension BookmarkController: UIViewControllerPreviewingDelegate {
     
     let detailController = DetailController()
     detailController.grammar = grammar
+    detailController.preferredContentSize = CGSize(width: 0, height: 500)
     previewingContext.sourceRect = cell.frame
     
     return detailController
