@@ -14,6 +14,7 @@ import MobileCoreServices
 class HomeController: UITableViewController, UISearchResultsUpdating {
   
   let cellId = "homeCell"
+  let dataController = DataController.shareInstance
   var grammars = [GrammarMO]()
   var grammarsDict = [String: [GrammarMO]]()
   var grammarSectionTitles = [String]()
@@ -45,24 +46,7 @@ class HomeController: UITableViewController, UISearchResultsUpdating {
     tableView.contentOffset = CGPoint(x: 0, y: searchController.searchBar.frame.height)
     searchController.loadViewIfNeeded()
     
-    let managedObjectContext = (UIApplication.shared.delegate as! AppDelegate).persistentContainer.viewContext
-    let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Grammar")
-    grammars = (try! managedObjectContext.fetch(fetchRequest)) as! [GrammarMO]
-    
-    for grammar in grammars {
-      guard let grammarKey = grammar.acronym else {
-        return
-      }
-      
-      if grammarsDict[grammarKey] != nil {
-        grammarsDict[grammarKey]?.append(grammar)
-      } else {
-        grammarsDict[grammarKey] = [grammar]
-      }
-    }
-    
-    grammarSectionTitles = [String](grammarsDict.keys)
-    grammarSectionTitles.sort(by: { $0 < $1 })
+    (grammars, grammarsDict, grammarSectionTitles) = dataController.fetchData()
     
     if traitCollection.forceTouchCapability == .available {
       registerForPreviewing(with: self as UIViewControllerPreviewingDelegate, sourceView: view)

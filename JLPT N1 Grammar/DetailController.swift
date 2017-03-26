@@ -12,6 +12,7 @@ import CoreData
 class DetailController: UITableViewController {
   
   var grammar: GrammarMO!
+  let dataController = DataController.shareInstance
   
   override func viewDidLoad() {
     super.viewDidLoad()
@@ -46,9 +47,7 @@ class DetailController: UITableViewController {
     let saveButtonItem = UIBarButtonItem(image: buttonImage, style: .plain, target: self, action: #selector(DetailController.saveAction))
     navigationItem.setRightBarButton(saveButtonItem, animated: true)
     
-    if let appDelegate = (UIApplication.shared.delegate as? AppDelegate) {
-      appDelegate.saveContext()
-    }
+    dataController.saveContext()
   }
   
   // MARK: - Table View Data Source

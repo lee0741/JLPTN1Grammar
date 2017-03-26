@@ -12,9 +12,10 @@ import CoreData
 class BookmarkController: UITableViewController {
   
   let cellId = "bookmarkCell"
-  var grammars: [GrammarMO]!
-  var grammarsDict: [String: [GrammarMO]]!
-  var grammarSectionTitles: [String]!
+  let dataController = DataController.shareInstance
+  var grammars = [GrammarMO]()
+  var grammarsDict = [String: [GrammarMO]]()
+  var grammarSectionTitles = [String]()
   
   override func viewDidLoad() {
     super.viewDidLoad()
@@ -42,29 +43,7 @@ class BookmarkController: UITableViewController {
   }
   
   func fetchData() {
-    grammars = [GrammarMO]()
-    grammarsDict = [String: [GrammarMO]]()
-    grammarSectionTitles = [String]()
-    
-    let managedObjectContext = (UIApplication.shared.delegate as! AppDelegate).persistentContainer.viewContext
-    let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Grammar")
-    fetchRequest.predicate = NSPredicate(format: "saved == true")
-    grammars = (try! managedObjectContext.fetch(fetchRequest)) as! [GrammarMO]
-    
-    for grammar in grammars {
-      guard let grammarKey = grammar.acronym else {
-        return
-      }
-      
-      if grammarsDict[grammarKey] != nil {
-        grammarsDict[grammarKey]?.append(grammar)
-      } else {
-        grammarsDict[grammarKey] = [grammar]
-      }
-    }
-    
-    grammarSectionTitles = [String](grammarsDict.keys)
-    grammarSectionTitles.sort(by: { $0 < $1 })
+    (grammars, grammarsDict, grammarSectionTitles) = dataController.fetchData(with: "saved == true")
     tableView.reloadData()
   }
   
@@ -123,9 +102,7 @@ class BookmarkController: UITableViewController {
     if editingStyle == .delete {
       let grammar = grammarsDict[grammarSectionTitles[indexPath.section]]![indexPath.row]
       grammar.saved = !grammar.saved
-      if let appDelegate = (UIApplication.shared.delegate as? AppDelegate) {
-        appDelegate.saveContext()
-      }
+      dataController.saveContext()
     }
   }
   

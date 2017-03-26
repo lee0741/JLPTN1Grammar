@@ -17,6 +17,7 @@
 		AD6174D41E59ABF10068DDB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD6174D11E59ABF10068DDB2 /* Assets.xcassets */; };
 		AD6174D71E59AC040068DDB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6174D51E59AC040068DDB2 /* LaunchScreen.storyboard */; };
 		AD6174DB1E59AC660068DDB2 /* Grammar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD6174DA1E59AC660068DDB2 /* Grammar.xcdatamodeld */; };
+		ADC8A17A1E87CBAA007187A7 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8A1791E87CBAA007187A7 /* DataController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		AD6174D11E59ABF10068DDB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "JLPT N1 Grammar/Assets.xcassets"; sourceTree = SOURCE_ROOT; };
 		AD6174D61E59AC040068DDB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "JLPT N1 Grammar/Base.lproj/LaunchScreen.storyboard"; sourceTree = SOURCE_ROOT; };
 		AD9CF6CE1BD3A6B900EB32E3 /* JLPT N1 Grammar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JLPT N1 Grammar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADC8A1791E87CBAA007187A7 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				AD6174C91E59ABE10068DDB2 /* BookmarkController.swift */,
+				ADC8A1791E87CBAA007187A7 /* DataController.swift */,
 				AD6174CA1E59ABE10068DDB2 /* DetailController.swift */,
 				AD6174CB1E59ABE10068DDB2 /* HomeController.swift */,
 			);
@@ -247,6 +250,7 @@
 				AD6174CE1E59ABE10068DDB2 /* HomeController.swift in Sources */,
 				AD6174C81E59ABD10068DDB2 /* ExampleCell.swift in Sources */,
 				AD6174D21E59ABF10068DDB2 /* AppDelegate.swift in Sources */,
+				ADC8A17A1E87CBAA007187A7 /* DataController.swift in Sources */,
 				AD6174CD1E59ABE10068DDB2 /* DetailController.swift in Sources */,
 				AD6174C41E59ABBE0068DDB2 /* SwiftyJSON.swift in Sources */,
 			);
